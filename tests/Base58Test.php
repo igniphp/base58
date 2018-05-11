@@ -3,6 +3,7 @@
 namespace IgniTest\Unit\Crypto;
 
 use Igni\Crypto\Base58;
+use PHPUnit\Framework\TestCase;
 
 class Base58Test extends TestCase
 {
