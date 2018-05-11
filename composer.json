@@ -23,12 +23,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Igni\\Crypto": "src/"
+      "Igni\\Crypto\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "IgniTest\\Unit\\Crypto": "tests/"
+      "IgniTest\\Unit\\Crypto\\": "tests/"
     }
   }
 }
