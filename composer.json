@@ -1,7 +1,12 @@
 {
   "name": "igniphp/base58",
   "description": "",
-  "keywords": [],
+  "keywords": [
+    "base58",
+    "igniphp",
+    "php",
+    "bcmath"
+  ],
   "license": "MIT",
   "authors": [
     {
